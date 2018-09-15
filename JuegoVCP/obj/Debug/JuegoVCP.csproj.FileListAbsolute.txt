@@ -1,0 +1,10 @@
+C:\Users\Valentin\source\repos\JuegoVCP\JuegoVCP\bin\Debug\JuegoVCP.exe.config
+C:\Users\Valentin\source\repos\JuegoVCP\JuegoVCP\bin\Debug\JuegoVCP.exe
+C:\Users\Valentin\source\repos\JuegoVCP\JuegoVCP\bin\Debug\JuegoVCP.pdb
+C:\Users\Valentin\source\repos\JuegoVCP\JuegoVCP\obj\Debug\JuegoVCP.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\source\repos\JuegoVCP\JuegoVCP\obj\Debug\JuegoVCP.Form1.resources
+C:\Users\Valentin\source\repos\JuegoVCP\JuegoVCP\obj\Debug\JuegoVCP.Properties.Resources.resources
+C:\Users\Valentin\source\repos\JuegoVCP\JuegoVCP\obj\Debug\JuegoVCP.csproj.GenerateResource.cache
+C:\Users\Valentin\source\repos\JuegoVCP\JuegoVCP\obj\Debug\JuegoVCP.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\source\repos\JuegoVCP\JuegoVCP\obj\Debug\JuegoVCP.exe
+C:\Users\Valentin\source\repos\JuegoVCP\JuegoVCP\obj\Debug\JuegoVCP.pdb
